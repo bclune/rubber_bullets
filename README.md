@@ -14,4 +14,11 @@ tracer.trace()
 
 ```
 
+TODO
+----
+
+Support for colorizing output
+
+
+
 [1]: https://github.com/n8/tracer_bullets
