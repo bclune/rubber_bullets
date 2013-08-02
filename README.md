@@ -28,6 +28,7 @@ TODO
 ----
 
 Better formatting/support for colorizing output
+PyPI registration
 
 
 
